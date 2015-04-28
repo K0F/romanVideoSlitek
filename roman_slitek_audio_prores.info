@@ -1,0 +1,51 @@
+General
+Complete name                            : /home/kof/render/romanSlitek/roman_slitek_audio_prores.mov
+Format                                   : MPEG-4
+Format profile                           : QuickTime
+Codec ID                                 : qt  
+File size                                : 532 MiB
+Duration                                 : 57mn 30s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 294 Kbps
+Writing application                      : Lavf56.30.100
+
+Video
+ID                                       : 1
+Format                                   : ProRes
+Format version                           : Version 0
+Codec ID                                 : apcn
+Duration                                 : 57mn 21s
+Bit rate mode                            : Variable
+Bit rate                                 : 1 038 Kbps
+Width                                    : 720 pixels
+Height                                   : 540 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:2
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.107
+Stream size                              : 426 MiB (80%)
+Writing library                          : fmpg
+Language                                 : English
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 57mn 30s
+Duration_LastFrame                       : -12ms
+Bit rate mode                            : Variable
+Bit rate                                 : 256 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 105 MiB (20%)
+Language                                 : English
+
+
